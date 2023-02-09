@@ -1,6 +1,2 @@
----
-coverY: 0
----
-
-# Sports AI Coach
+# Page 3
 
