@@ -16,6 +16,8 @@ _Important addition, our collection will have 1000 NFTs, however, we will only m
 
 _-> Initially, we will have **30** NFTs where our investors will be able to mint within our Dapp. Our investors who acquire the Sports AI NFTs will have the right to mint them, becoming the owners of the contract and submitting their art to any NFT marketplace._
 
+_----------------------------------------------------------------------------------------------------_
+
 #### Future plans for the NFT marketplace - Sports AI
 
 _We are developing an intuitive and easy-to-use game, with various sports within the platform, all very fun and of course! fully secure. Our game will have many benefits, among them the Play-to-earn mode, where we will provide our loyal players with Sports AI tokens, but for this to be possible, they will have to have the rights to our NFTs and eventually, they may also mint. Wait, as we will soon bring this exciting news._
