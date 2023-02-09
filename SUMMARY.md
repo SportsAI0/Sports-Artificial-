@@ -6,10 +6,10 @@
 
 ## Group 1
 
-* [Page 1](group-1/page-1.md)
-* [Page 2](group-1/page-2.md)
-* [Page 3](group-1/page-3.md)
-* [Page 4](group-1/page-4.md)
+* [Mobile App](group-1/page-1.md)
+* [NFT's Marketplace](group-1/page-2.md)
+* [Sports AI Coach](group-1/page-3.md)
+* [Dapp Plataform](group-1/page-4.md)
 
 ## Functionality
 
