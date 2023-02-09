@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Sport Artificial](README.md)
-* [Buy Sports AI](buy-sports-ai.md)
+* [Buy Sports AI](https://www.pinksale.finance/)
 * [Social Media](social-media.md)
 
 ## Group 1
