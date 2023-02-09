@@ -6,17 +6,10 @@
 
 ## Products
 
-* [Mobile App](products/page-1.md)
-* [NFT's Marketplace](products/page-2.md)
-* [Sports AI Coach](products/page-3.md)
-* [Dapp Plataform](products/page-4.md)
-
-## Functionality
-
-* [Page 5](functionality/page-5.md)
-* [Page 6](functionality/page-6.md)
-* [Page 7](functionality/page-7.md)
-* [Page 8](functionality/page-8.md)
+* [Mobile App](group-1/page-1.md)
+* [NFT's Marketplace](group-1/page-2.md)
+* [Sports AI Coach](group-1/page-3.md)
+* [Dapp Plataform](group-1/page-4.md)
 
 ## Token Sports AI
 
