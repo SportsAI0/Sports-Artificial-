@@ -4,12 +4,12 @@
 * [Buy Sports AI](https://www.pinksale.finance/)
 * [Social Media](social-media.md)
 
-## Group 1
+## Products
 
-* [Mobile App](group-1/page-1.md)
-* [NFT's Marketplace](group-1/page-2.md)
-* [Sports AI Coach](group-1/page-3.md)
-* [Dapp Plataform](group-1/page-4.md)
+* [Mobile App](products/page-1.md)
+* [NFT's Marketplace](products/page-2.md)
+* [Sports AI Coach](products/page-3.md)
+* [Dapp Plataform](products/page-4.md)
 
 ## Functionality
 
