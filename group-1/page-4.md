@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/CAPA.png
+coverY: 0
+---
+
 # Dapp Plataform
 
 \-_> Staking Sports Artificial in cryptocurrency is a process that allows token holders to participate in the security and operation of a cryptocurrency network. The Staking Sports Artificial involves placing Sports AI tokens in your secure wallet to validate transactions and maintain network integrity. In return, users receive rewards in the form of Sports AI tokens._

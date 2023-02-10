@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/CAPA.png
+coverY: 0
+---
+
 # NFT's Marketplace
 
 ## NFT's Marketplace - Sports Artificial
@@ -15,6 +20,8 @@ _Important addition, our collection will have 1000 NFTs, however, we will only m
 #### Mint Mechanics:
 
 _-> Initially, we will have **30** NFTs where our investors will be able to mint within our Dapp. Our investors who acquire the Sports AI NFTs will have the right to mint them, becoming the owners of the contract and submitting their art to any NFT marketplace._
+
+_----------------------------------------------------------------------------------------------------_
 
 #### Future plans for the NFT marketplace - Sports AI
 
