@@ -1,6 +1,11 @@
+---
+cover: ../../.gitbook/assets/CAPA.png
+coverY: 0
+---
+
 # Features - Basketball
 
-
+_Here, our user interacts with our Coach Sports AI, where he would like to understand the rules of basketball and in fractions of minutes all rules are clearly and objectively exposed._
 
 <div>
 
