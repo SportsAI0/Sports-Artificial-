@@ -13,6 +13,8 @@ _->In addition, the Sports AI Coach also provides personalized updates, such as 
 
 _->By using artificial intelligence, the Sports AI Coach will also provide information on betting and odds, helping users make informed decisions about their bets. In summary, the Sports AI Coach makes it easier and more convenient to keep track of all the sports events of interest._
 
+{% embed url="https://t.me/sportsartificialgpt3_bot" %}
+
 ## Here is our home screen and the sports it contains.
 
 <div>
