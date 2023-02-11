@@ -8,7 +8,10 @@
 
 * [Mobile App](group-1/page-1.md)
 * [NFT's Marketplace](group-1/page-2.md)
-* [Sports AI Coach](group-1/page-3.md)
+* [Sports AI Coach](products/page-3/README.md)
+  * [List of sports](products/page-3/list-of-sports.md)
+  * [Page 1](products/page-3/page-1.md)
+  * [Page 2](products/page-3/page-2.md)
 * [Dapp Plataform](group-1/page-4.md)
 
 ## Token Sports AI

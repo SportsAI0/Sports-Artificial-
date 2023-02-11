@@ -34,7 +34,7 @@ _Our main goal is to bring ease to our investors, so we have developed our mobil
 * [x] _Sports data -> such as rules, statistics, benefits of the sport, among others._
 * [x] _Data about rankings -> Best teams, best players, best times, among others._
 
-#### -> [AI Coach Support](group-1/page-3.md)
+#### -> [AI Coach Support](products/page-3/)
 
 _We will have a magnificent Coach (bot) to make our lives easier! Our Coach has the function of explaining all the functions of 20 different sports, all in less than 3 minutes, according to demands and complexity of the function. It will have some points such as:_
 
