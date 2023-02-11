@@ -14,7 +14,7 @@ _->The integration of the metaverse with our Sports AI NFTs allows users to acqu
 _->Our marketplace will provide a showcase of all Sports AI items, where all investors will have access, but! In addition to the primary functions, investors will be able to mint their NFTs through our platform._
 
 {% hint style="info" %}
-_Important addition, our collection will have 1000 NFTs, however, we will only make 30 Exclusive Launch Drops NFTs available at first! Don't miss the opportunity and get yours._
+_Important addition, our collection will have 1000 NFTs, however, we will only make530 Exclusive Launch Drops NFTs available at first! Don't miss the opportunity and get yours._
 {% endhint %}
 
 #### Mint Mechanics:
