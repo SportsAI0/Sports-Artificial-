@@ -8,7 +8,7 @@
 
 * [Mobile App](group-1/page-1.md)
 * [NFT's Marketplace](group-1/page-2.md)
-* [Sports AI Coach](products/page-3/README.md)
+* [Coach AI](products/page-3/README.md)
   * [List of sports](products/page-3/list-of-sports.md)
   * [Features - Soccer](products/page-3/features-soccer.md)
   * [Features - Basketball](products/page-3/features-basketball.md)
