@@ -17,3 +17,31 @@ _->Furthermore, technology is revolutionizing the way matches are evaluated and 
 
 \-----------------------------------------------------------------------------------------------------
 
+## Main Artificial Sports products {Sports AI}
+
+\-**> Mobile APP Sports AI**
+
+_Our main goal is to bring ease to our investors, so we have developed our mobile app, where users will have all the statistics at their fingertips, allowing them to use it before carrying out their preferred activities. With it, we will have a wealth of functions, but we highlight:_
+
+* [x] _Sports data -> such as rules, statistics, benefits of the sport, among others._
+* [x] _Data about rankings -> Best teams, best players, best times, among others._
+
+#### -> AI Coach Support
+
+_We will have a magnificent Coach (bot) to make our lives easier! Our Coach has the function of explaining all the functions of 20 different sports, all in less than 3 minutes, according to demands and complexity of the function. It will have some points such as:_
+
+* [x] _Sports statistics data;_
+* [x] _Sports rankings;_
+* [x] &#x20;_Practice suggestions;_&#x20;
+* [x] _Among others._
+
+#### -> Dapp Platform
+
+_We will have a Staking platform, where we will provide our investors with a return according to the pre-fixed APY in our Sports AI token, BNB, BUSD, ETH, USDT and Sports Artificial NFTs._
+
+#### _-> NFT's Marktplace_
+
+_An exclusive NFTs Sports AI platform, with wonderful collections, our platform will soon allow for buying and selling transactions, we will have Staking on our NFTs to truly reward our investors and also the inclusion of the same in the metaverse._
+
+__
+
