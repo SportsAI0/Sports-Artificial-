@@ -15,9 +15,9 @@ _**->Staking Sports AI Wallet:** The Staking Sports AI wallet is where users sto
 
 _-**>Rewards:** In exchange for your participation in the network, users who participate in Staking Sports AI receive rewards in the form of Sports AI tokens. Rewards are distributed proportionally to the number of tokens each user has staked in Staking Sports AI._
 
-| 05% APY             | 12% APY        | 14% APY       | 23% APY          | 23% APY       |
-| ------------------- | -------------- | ------------- | ---------------- | ------------- |
-| 30 Days - Sports AI | 90 Days - BUSD | 90 Days - ETH | 30 Days - TETHER | 90 Days - BNB |
+| 05% APY             | 12% APY        | 14% APY       | 23% APY        | 23% APY       |
+| ------------------- | -------------- | ------------- | -------------- | ------------- |
+| 30 Days - Sports AI | 90 Days - BUSD | 90 Days - ETH | 30 Days - USDT | 90 Days - BNB |
 
 _---------------------------------------------------------------------------------------------------_
 

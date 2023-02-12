@@ -34,20 +34,25 @@ _Our main goal is to bring ease to our investors, so we have developed our mobil
 * [x] _Sports data -> such as rules, statistics, benefits of the sport, among others._
 * [x] _Data about rankings -> Best teams, best players, best times, among others._
 
-#### -> [AI Coach Support](products/page-3/)
+#### -> [Coach AI](./#greater-than-coach-ai)
 
-_We will have a magnificent Coach (bot) to make our lives easier! Our Coach has the function of explaining all the functions of 20 different sports, all in less than 3 minutes, according to demands and complexity of the function. It will have some points such as:_
+_A magnificent AI Coach, which will make our sports life easier, our AI Coach has over 20 sports in its database, serving us in various areas, giving us faster answers to any sports questions we may have! Really, with AI Coach our sports life will no longer be the same, it will be much better! It includes data such as:_
 
-* [x] _Sports statistics data;_
-* [x] _Sports rankings;_
-* [x] &#x20;_Practice suggestions;_&#x20;
-* [x] _Among others._
+* [x] _Sports stories;_&#x20;
+* [x] _Statistical data;_&#x20;
+* [x] _Everything about our favorite professionals, the one we see as a mentor;_&#x20;
+* [x] _Sports rules;_&#x20;
+* [x] _Videos with memorable plays and much more!_
+
+_**Access our bot and have fun.**_
 
 {% embed url="https://t.me/sportsartificialgpt3_bot" %}
 
 #### -> [Dapp Platform](products/page-4/)
 
 _We will have a Staking platform, where we will provide our investors with a return according to the pre-fixed APY in our Sports AI token, BNB, BUSD, ETH, USDT and Sports Artificial NFTs._
+
+{% embed url="https://dapp.sportsartificial.io/" %}
 
 #### _->_ [_NFT's Marktplace_](group-1/page-2.md)__
 
