@@ -12,11 +12,11 @@ _Below are images of our Dapp platform, where our investors will be able to mint
 
 <div>
 
-<figure><img src="../../.gitbook/assets/2.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1).JPG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/3.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).JPG" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -32,4 +32,4 @@ _Below are images of our Dapp platform, where our investors will be able to mint
 
 </div>
 
-<figure><img src="../../.gitbook/assets/1.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).JPG" alt=""><figcaption></figcaption></figure>

@@ -21,4 +21,4 @@ _-**>Rewards:** In exchange for your participation in the network, users who par
 
 _---------------------------------------------------------------------------------------------------_
 
-_->We will have our NFT Marketplace where we will be able to mint our token, it will be integrated into your platform, to learn more_ [_access here._](../../group-1/page-2.md)__
+_->We will have our NFT Marketplace where we will be able to mint our token, it will be integrated into your platform, to learn more_ [_access here._](../page-2/)__

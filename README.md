@@ -54,7 +54,7 @@ _We will have a Staking platform, where we will provide our investors with a ret
 
 {% embed url="https://dapp.sportsartificial.io/" %}
 
-#### _->_ [_NFT's Marktplace_](group-1/page-2.md)__
+#### _->_ [_NFT's Marktplace_](products/page-2/)__
 
 _An exclusive NFTs Sports AI platform, with wonderful collections, our platform will soon allow for buying and selling transactions, we will have Staking on our NFTs to truly reward our investors and also the inclusion of the same in the metaverse._
 
