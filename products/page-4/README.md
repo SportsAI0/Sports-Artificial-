@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/CAPA.png
+cover: ../../.gitbook/assets/CAPA.png
 coverY: 0
 ---
 
@@ -15,10 +15,10 @@ _**->Staking Sports AI Wallet:** The Staking Sports AI wallet is where users sto
 
 _-**>Rewards:** In exchange for your participation in the network, users who participate in Staking Sports AI receive rewards in the form of Sports AI tokens. Rewards are distributed proportionally to the number of tokens each user has staked in Staking Sports AI._
 
-| 05% APY  | 10% APY | 15% APY  |
-| -------- | ------- | -------- |
-| 60 Days  | 90 Days | 120 Days |
+| 05% APY             | 12% APY        | 14% APY       | 23% APY          | 23% APY       |
+| ------------------- | -------------- | ------------- | ---------------- | ------------- |
+| 30 Days - Sports AI | 90 Days - BUSD | 90 Days - ETH | 30 Days - TETHER | 90 Days - BNB |
 
 _---------------------------------------------------------------------------------------------------_
 
-_->We will have our NFT Marketplace where we will be able to mint our token, it will be integrated into your platform, to learn more_ [_access here._](page-2.md)__
+_->We will have our NFT Marketplace where we will be able to mint our token, it will be integrated into your platform, to learn more_ [_access here._](../../group-1/page-2.md)__

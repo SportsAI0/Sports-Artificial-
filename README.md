@@ -45,7 +45,7 @@ _We will have a magnificent Coach (bot) to make our lives easier! Our Coach has 
 
 {% embed url="https://t.me/sportsartificialgpt3_bot" %}
 
-#### -> [Dapp Platform](group-1/page-4.md)
+#### -> [Dapp Platform](products/page-4/)
 
 _We will have a Staking platform, where we will provide our investors with a return according to the pre-fixed APY in our Sports AI token, BNB, BUSD, ETH, USDT and Sports Artificial NFTs._
 

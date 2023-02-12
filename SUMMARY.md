@@ -14,7 +14,8 @@
   * [Features - Basketball](products/page-3/features-basketball.md)
   * [Features - Volleyball and tennis](products/page-3/features-volleyball-and-tennis.md)
   * [Features - Videosports](products/page-3/features-videosports.md)
-* [Dapp Plataform](group-1/page-4.md)
+* [Dapp Plataform](products/page-4/README.md)
+  * [Staking Sports AI](products/page-4/staking-sports-ai.md)
 
 ## Token Sports AI
 
