@@ -3,9 +3,9 @@ cover: ../../.gitbook/assets/CAPA.png
 coverY: 0
 ---
 
-# Sports AI Coach
+# Coach AI
 
-## Sports AI Coach
+## Coach AI
 
 _->Sports AI Coach is an automated sports instructor on Telegram that provides information and updates related to sports events and statistics. With the ability to provide real-time scores, statistics, news, and other relevant information about specific sports teams, players, or events, the Sports AI Coach offers a convenient and accessible solution for keeping up-to-date with your favorite sports._
 
