@@ -22,3 +22,6 @@ __
 
 ## KYC
 
+
+
+{% embed url="https://pinksale.notion.site/Sports-Ai-KYC-Verification-825163c6af464bd782f921e1866622eb" %}
