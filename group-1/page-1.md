@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/CAPA.png
+cover: ../.gitbook/assets/CAPA.png
 coverY: 0
 ---
 
