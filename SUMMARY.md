@@ -6,7 +6,8 @@
 
 ## Products
 
-* [Mobile App](group-1/page-1.md)
+* [Mobile App](products/page-1/README.md)
+  * [Page 1](products/page-1/page-1.md)
 * [NFT's Marketplace](products/page-2/README.md)
   * [Staking NFT Sports AI](products/page-2/staking-nft-sports-ai.md)
 * [Coach AI](products/page-3/README.md)

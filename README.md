@@ -27,7 +27,7 @@ _->Furthermore, technology is revolutionizing the way matches are evaluated and 
 
 ## Main Artificial Sports products {Sports AI}
 
-\-**>** [**Mobile APP Sports AI**](group-1/page-1.md)****
+\-**>** [**Mobile APP Sports AI**](products/page-1/)****
 
 _Our main goal is to bring ease to our investors, so we have developed our mobile app, where users will have all the statistics at their fingertips, allowing them to use it before carrying out their preferred activities. With it, we will have a wealth of functions, but we highlight:_
 
