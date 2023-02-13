@@ -29,10 +29,7 @@ _->Furthermore, technology is revolutionizing the way matches are evaluated and 
 
 \-**>** [**Mobile APP Sports AI**](group-1/page-1.md)****
 
-_Our main goal is to bring ease to our investors, so we have developed our mobile app, where users will have all the statistics at their fingertips, allowing them to use it before carrying out their preferred activities. With it, we will have a wealth of functions, but we highlight:_
-
-* [x] _Sports data -> such as rules, statistics, benefits of the sport, among others._
-* [x] _Data about rankings -> Best teams, best players, best times, among others._
+_We will bring convenience to our users where they will be able to access from anywhere, customized programming for sports choices, and fully useful for health, to monitor and control all possible indicators._
 
 #### -> [Coach AI](./#greater-than-coach-ai)
 

@@ -7,11 +7,10 @@
 ## Products
 
 * [Mobile App](group-1/page-1.md)
-  * [Page 1](products/page-1/page-1.md)
-  * [Page 2](products/page-1/page-2.md)
-  * [Page 3](products/page-1/page-3.md)
-  * [Page 4](products/page-1/page-4.md)
-  * [Page 5](products/page-1/page-5.md)
+  * [Initial Phase](products/page-1/initial-phase.md)
+  * [Choice of program](products/page-1/choice-of-program.md)
+  * [Parameters](products/page-1/parameters.md)
+  * [Final Schedule](products/page-1/final-schedule.md)
   * [Move-to-earn](products/page-1/move-to-earn.md)
 * [NFT's Marketplace](products/page-2/README.md)
   * [Staking NFT Sports AI](products/page-2/staking-nft-sports-ai.md)
