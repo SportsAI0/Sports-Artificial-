@@ -11,6 +11,8 @@ _Sports Artificial was founded with the aim of encouraging our investors to part
 
 _We will also have our Sports AI Coach, which will provide our users with all analytical and sports data from a range of sports, and of course! Our Staking platform and exclusive NFT marketplace cannot be missed, with a beautiful collection and options for Sports Artificial investors to monetize! It has never been easier to find such an effective workout partner as Sports Artificial, we will be for our investors!_
 
+{% embed url="https://youtu.be/4SyyGhvLsrg" %}
+
 \-----------------------------------------------------------------------------------------------------
 
 \->_Technology has had a significant influence on the evolution of all sports. From the implementation of electronic timers to the use of advanced data analysis and artificial intelligence technologies, technology has revolutionized the way sports are practiced, broadcast, and analyzed._
