@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Sport Artificial](README.md)
-* [Buy Sports AI](https://www.pinksale.finance/)
+* [Buy Sports AI](https://www.pinksale.finance/launchpad/0x1Cf993C0b2a47885604BadFF9C0c4C13511B4611?chain=BSC\&refId=0x18A99741877350c67D2Db9CC8B4a4E215EA0f3BE)
 * [Social Media](social-media.md)
 
 ## Products

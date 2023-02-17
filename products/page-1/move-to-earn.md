@@ -25,3 +25,5 @@ _-> We will provide three anti-cheating methods during the use of the Sports Art
 * [x] _Explanation of machinery to detect fraud and cheating through data simulations._
 
 _-> Any violation of the root code of the device will result in a Sports Artificial Mobile lock, causing a discrepancy in its operation._
+
+\-> We will initially have a wallet that will store funds for initial staking - Staking Reward

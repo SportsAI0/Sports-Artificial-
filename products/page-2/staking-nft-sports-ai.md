@@ -9,6 +9,8 @@ coverY: 0
 
 \-> _We will also have a staking system for our NFTs! We already have an integrated platform, where we are finalizing the protocols and funds, so all holders of Sports AI NFTs can trade, mint, and also stake! An infinity of functions for a super collection._
 
+\-> We will initially have a wallet that will store funds for initial staking - Staking Reward
+
 | NFT pool - 1        | NFT pool - 2        |
 | ------------------- | ------------------- |
 | 350/ Mont - 30 Days | 750/ Mont - 90 Days |
